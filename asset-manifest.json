@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rajesh2004-developer/TicTacToe/static/css/main.269081f1.css",
+    "main.js": "/rajesh2004-developer/TicTacToe/static/js/main.eee9dd02.js",
+    "index.html": "/rajesh2004-developer/TicTacToe/index.html",
+    "main.269081f1.css.map": "/rajesh2004-developer/TicTacToe/static/css/main.269081f1.css.map",
+    "main.eee9dd02.js.map": "/rajesh2004-developer/TicTacToe/static/js/main.eee9dd02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.269081f1.css",
+    "static/js/main.eee9dd02.js"
+  ]
+}
